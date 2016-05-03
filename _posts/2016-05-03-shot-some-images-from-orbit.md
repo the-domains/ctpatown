@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Shot some images from orbit
-datePublished: '2016-05-03T05:29:42.906Z'
-dateModified: '2016-05-03T05:29:19.240Z'
+datePublished: '2016-05-03T05:53:11.416Z'
+dateModified: '2016-05-03T05:52:26.470Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-shot-some-images-from-orbit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-03-shot-some-images-from-orbit.md
-published: true
+starred: true
 url: shot-some-images-from-orbit/index.html
 _type: Article
 
