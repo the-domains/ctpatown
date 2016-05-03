@@ -1,7 +1,7 @@
 name: CtPaTown
 favicon: null
-layout_spectrum: 0.3911533919163048
-typography_spectrum: 0.5831549309659749
+layout_spectrum: 0.49939
+typography_spectrum: 0.50618
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.21450852206908166
+    - '#002052'
+    - '#0066ae'
+    - '#d3ffff'
+    - '#4ebae4'
+    - '#b6661a'
+  brandStrength: 0.625
   lightness: 0.7406921715009958
   saturation: 0.7382744692731649
   rhythmicContrast: 0.13959737587720156
