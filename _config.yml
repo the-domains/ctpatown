@@ -2,6 +2,7 @@ name: CtPaTown
 favicon: null
 layout_spectrum: 0.49939
 typography_spectrum: 0.50618
+title: Welcome to Historic Ct Pa Town
 cta:
   domain: null
   bucket: null
